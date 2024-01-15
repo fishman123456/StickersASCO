@@ -1,0 +1,10 @@
+D:\Github\StickersASCO\bin\Debug\StickersASCO.exe.config
+D:\Github\StickersASCO\bin\Debug\StickersASCO.exe
+D:\Github\StickersASCO\bin\Debug\StickersASCO.pdb
+D:\Github\StickersASCO\obj\Debug\StickersASCO.csproj.AssemblyReference.cache
+D:\Github\StickersASCO\obj\Debug\StickersASCO.Form1.resources
+D:\Github\StickersASCO\obj\Debug\StickersASCO.Properties.Resources.resources
+D:\Github\StickersASCO\obj\Debug\StickersASCO.csproj.GenerateResource.cache
+D:\Github\StickersASCO\obj\Debug\StickersASCO.csproj.CoreCompileInputs.cache
+D:\Github\StickersASCO\obj\Debug\StickersASCO.exe
+D:\Github\StickersASCO\obj\Debug\StickersASCO.pdb
